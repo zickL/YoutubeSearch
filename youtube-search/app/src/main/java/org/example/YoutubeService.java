@@ -22,7 +22,7 @@ import java.util.List;
 public class YoutubeService {
 
     private static final String APPLICATION_NAME = "YouTube Search";
-    private static final String API_KEY = "AIzaSyDzguOhfsA9O89xp9AQE7qBevm74YWjC8Y";
+    private static final String API_KEY = "Youtube_API_KEY";
     private static final long NUMBER_OF_VIDEOS_RETURNED = 10;
 
     @Autowired
